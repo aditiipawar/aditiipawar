@@ -4,8 +4,9 @@ I'm Aditi Pawar
 💻 Interested in Data Analysis & AI  
 🌱 Currently learning Python and React 
 
-👩🏼‍💻My interest in domain goes from Data science to web development. 
+👩🏼‍💻My interest in domain goes from Data science to web development.
 
+🎗️Tech stack 🎗️
 <p>
 <img src="https://skillicons.dev/icons?i=python,js,html,css,react,angular,mysql,mongodb" />
 </p>
