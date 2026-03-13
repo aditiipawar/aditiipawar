@@ -6,7 +6,11 @@ I'm Aditi Pawar
 
 👩🏼‍💻My interest in domain goes from Data science to web development. 
 
-You can reach me on : aditiip0209@gmail.com(email) 
+<p>
+<img src="https://skillicons.dev/icons?i=python,js,html,css,react,angular,mysql,mongodb" />
+</p>
+
+You can reach me on : aditiip0209@gmail.com(email)   
                       https://www.linkedin.com/in/aditi-pawar-408bb5351/ (linkedln)
 
                       
