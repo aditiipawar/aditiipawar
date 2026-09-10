@@ -13,6 +13,7 @@ I'm Aditi Pawar
 
 You can reach me on : aditiip0209@gmail.com(email)   
                       https://www.linkedin.com/in/aditi-pawar-408bb5351/ (linkedln)
+                      https://owl-byjd0k.my.canva.site/
 
                       
 
